@@ -2,7 +2,7 @@
 
 Playlist: a blog template for phones, with post pages and login and signup screens.
 
-**[Live demo](https://mobifreaks.github.io/Playlist-Mobi/)** ·
+**[Live demo](https://mobifreaks.munawarahmed.com/Playlist-Mobi/)** ·
 [Download zip](https://github.com/mobifreaks/Playlist-Mobi/archive/HEAD.zip) ·
 [All 22 templates](https://munawarahmed.com/mobifreaks)
 
